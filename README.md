@@ -1,11 +1,11 @@
 # expand-gyazo-on-github.user.js
 
- * This script is based on the script @hiboma written. Thanks.
+This is based on the script written by @hiboma. Thanks. <3 <3 <3
 
 ## Install
 
- * For Chrome user. Download the raw file, then drag to extention (settings) page. That's it :)
+For Chrome user. Download the [raw file](https://raw.github.com/banyan/expand-gyazo-on-github.user.js/master/expand-gyazo-on-github.user.js#bypass=true), then drag to extention (settings) page :)
 
 ## Copyright
 
-See LICENSE for [details](http://banyan.mit-license.org/).
+[LICENSE](http://banyan.mit-license.org/).
