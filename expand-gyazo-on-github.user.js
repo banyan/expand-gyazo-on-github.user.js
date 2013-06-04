@@ -24,6 +24,7 @@ var expandGyazo = function() {
   setTimeout(function() {
     replacing_class_names.forEach(function(class_name) {
       var element = document.getElementsByClassName(class_name);
+
       $A(element).forEach(function(div) {
         div.innerHTML = div.innerHTML.replace(pattern, function(a, image_url) {
           return replacement.replace(/%source/g, image_url);
